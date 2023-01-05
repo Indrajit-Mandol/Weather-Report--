@@ -1,0 +1,14 @@
+.col{
+    color: blue;
+
+}
+.text-start {
+    background-color: aqua;
+    color: brown;
+}
+#feedback{
+    cursor: pointer;
+}
+#userguide{
+    cursor: pointer;
+}
